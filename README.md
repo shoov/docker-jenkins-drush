@@ -1,4 +1,4 @@
-```bash
+```shell
 mkdir jenkins-persist
 cd jenkins-persist
 
